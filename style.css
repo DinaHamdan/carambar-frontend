@@ -1,0 +1,26 @@
+body {
+    font-family: "Jost", sans-serif;
+    text-align: center;
+    color: black;
+    background-color: #FEDB27;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#jokeButton {
+    color: #E10079;
+    font-weight: 600;
+    font-size: 1em;
+    margin: 2em;
+}
+
+#jokeContainer {
+    width: 400px;
+    height: 300px;
+    color: #E10079;
+    font-weight: 900;
+    font-size: 2em;
+    text-align: center;
+
+}
